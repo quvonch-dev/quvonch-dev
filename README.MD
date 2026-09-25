@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Quvonchbek Ibragimov</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **crm**
+
+- 🌱 I’m currently learning **r**
+
+- 👯 I’m looking to collaborate on **n**
+
+- 🤝 I’m looking for help with **crm**
+
+- 📝 I regularly write articles on [blog](blog)
+
+- 💬 Ask me about **react**
+
 - 📫 How to reach me **maxfuza850@gmail.com**
+
+- 📄 Know about my experiences [l](l)
+
+- ⚡ Fun fact **e**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
